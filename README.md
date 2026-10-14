@@ -35,8 +35,8 @@ A powerful chatbot that allows you to upload PDF documents and ask questions abo
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/pdf-chatbot-rag.git
-cd pdf-chatbot-rag
+git clone https://github.com/Bhashita439/Document-Q-A-Assistant-using-RAG.git
+cd Document-Q-A-Assistant-using-RAG
 ```
 
 ### Step 2: Create Virtual Environment (Recommended)
@@ -401,7 +401,7 @@ streamlit run main2.py
 ## Project Structure
 
 ```
-pdf-chatbot-rag/
+Document-Q-A-Assistant-using-RAG/
 │
 ├── main2.py                 # Main application file
 ├── requirements.txt         # Python dependencies
@@ -471,7 +471,7 @@ If you encounter any issues:
 
 1. Check the [Common Errors & FAQs](#common-errors--faqs) section
 2. Open an issue on GitHub
-3. Contact: your.email@example.com
+3. Contact: bhashitanalluri1438@gmail.com
 
 ---
 
@@ -490,6 +490,4 @@ If you find this useful, please give it a star on GitHub!
 
 ---
 
-**Made with ❤️ by RAJNI GANGWAR**
-
-Last Updated: November 2025
+**Made with ❤️ by [Bhashita Nalluri](https://github.com/Bhashita439)**
