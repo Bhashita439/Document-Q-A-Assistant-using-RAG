@@ -1,0 +1,4 @@
+venv/
+.env
+main.py
+main3.py
